@@ -1,13 +1,13 @@
 # Mega-Store
 
-Requirements=>
+## Requirements=>
 
 1) Codeblocks
 2) Sublime Text Editor
 3) mysql.h C++ Database Access Library and defines the client API to MySQL.
 
 
-Abstract=>
+## Abstract=>
 
 Today world is full of new  and amazing technologies . From eating food to 
 booking a ticket, every single thing is done with the help of these  technologies. 
@@ -18,7 +18,7 @@ better choice by comparing these technologies in each and every aspect.   Our
 working model uses some simple data structures for searching like binary 
 search tree and linked list.
 
- ALGORITHM 
+ ## ALGORITHM 
  
  1.Standard header files and Declaration of global addresses 
  
